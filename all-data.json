@@ -1,0 +1,733 @@
+{
+    "success": true,
+    "data": [
+        {
+            "id": 1,
+            "name": "Ulusal Kanallar",
+            "image": "https://i.hizliresim.com/30tyjw7.png",
+            "order_index": 1,
+            "is_active": true,
+            "channels_count": 18,
+            "channels": [
+                {
+                    "id": 2,
+                    "name": "TRT 1",
+                    "stream_url": "https://tv-trt1.medya.trt.com.tr/master.m3u8",
+                    "logo": "https://tv.vin/imagest/trns-png-w200xh200-trt-1.webp",
+                    "category_id": 1,
+                    "order_index": 0,
+                    "headers": [],
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+                    "is_active": true
+                },
+                {
+                    "id": 3,
+                    "name": "TRT 2",
+                    "stream_url": "http://tv-trt2.medya.trt.com.tr/master.m3u8",
+                    "logo": "https://tv.vin/imagest/trns-png-w200xh200-trt-2.webp",
+                    "category_id": 1,
+                    "order_index": 0,
+                    "headers": [],
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+                    "is_active": true
+                },
+                {
+                    "id": 4,
+                    "name": "Show TV",
+                    "stream_url": "https://ciner.daioncdn.net/showtv/showtv.m3u8?app=showtv_web",
+                    "logo": "https://tv.vin/imagest/trns-png-w200xh200-show-tv.webp",
+                    "category_id": 1,
+                    "order_index": 0,
+                    "headers": [],
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+                    "is_active": true
+                },
+                {
+                    "id": 5,
+                    "name": "STAR TV",
+                    "stream_url": "https://dogus.daioncdn.net/startv/startv.m3u8?app=startv_web",
+                    "logo": "https://tv.vin/imagest/trns-png-w200xh200-star-tv.webp",
+                    "category_id": 1,
+                    "order_index": 0,
+                    "headers": [],
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+                    "is_active": true
+                },
+                {
+                    "id": 6,
+                    "name": "ATV",
+                    "stream_url": "http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8",
+                    "logo": "https://tv.vin/imagest/trns-png-w200xh200-atv.webp",
+                    "category_id": 1,
+                    "order_index": 0,
+                    "headers": [],
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+                    "is_active": true
+                },
+                {
+                    "id": 7,
+                    "name": "KANAL D",
+                    "stream_url": "https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web",
+                    "logo": "https://tv.vin/imagest/trns-png-w200xh200-kanal-d.webp",
+                    "category_id": 1,
+                    "order_index": 0,
+                    "headers": [],
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+                    "is_active": true
+                },
+                {
+                    "id": 8,
+                    "name": "NOW TV",
+                    "stream_url": "https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8",
+                    "logo": "https://tv.vin/imagest/trns-png-w200xh200-now-tv.webp",
+                    "category_id": 1,
+                    "order_index": 0,
+                    "headers": {
+                        "Referer": "https://www.nowtv.com.tr/"
+                    },
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+                    "is_active": true
+                },
+                {
+                    "id": 9,
+                    "name": "TV 8",
+                    "stream_url": "https://tv8.daioncdn.net/tv8/tv8.m3u8?app=tv8_web",
+                    "logo": "https://tv.vin/imagest/trns-png-w200xh200-tv8.webp",
+                    "category_id": 1,
+                    "order_index": 0,
+                    "headers": [],
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+                    "is_active": true
+                },
+                {
+                    "id": 10,
+                    "name": "TV 8 INT",
+                    "stream_url": "https://trn03.tulix.tv/gt-tv8int/tracks-v1a1/mono.m3u8",
+                    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW7NPFJunmBvVSJypbUx15JLuSnJm7ojVNSO7QYHleCg&s",
+                    "category_id": 1,
+                    "order_index": 0,
+                    "headers": [],
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+                    "is_active": true
+                },
+                {
+                    "id": 11,
+                    "name": "BEYAZ TV",
+                    "stream_url": "https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8",
+                    "logo": "https://tv.vin/imagest/trns-png-w200xh200-beyaz-tv.webp",
+                    "category_id": 1,
+                    "order_index": 0,
+                    "headers": [],
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+                    "is_active": true
+                },
+                {
+                    "id": 12,
+                    "name": "TV 4",
+                    "stream_url": "https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8",
+                    "logo": "https://tv.vin/imagest/trns-png-w200xh200-tv4-1759086110.webp",
+                    "category_id": 1,
+                    "order_index": 0,
+                    "headers": [],
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+                    "is_active": true
+                },
+                {
+                    "id": 13,
+                    "name": "GZT TV",
+                    "stream_url": "https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8",
+                    "logo": "https://tv.vin/imagest/trns-png-w200xh200-gzt-tv.webp",
+                    "category_id": 1,
+                    "order_index": 0,
+                    "headers": [],
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+                    "is_active": true
+                },
+                {
+                    "id": 15,
+                    "name": "TIVI 6",
+                    "stream_url": "https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8",
+                    "logo": "https://www.tvyayinakisi.com/wp-content/uploads/2025/10/tivi6-kimin-tivi6nin-sahibi-kim-tivi6-nerenin-kanali.webp",
+                    "category_id": 1,
+                    "order_index": 0,
+                    "headers": [],
+                    "user_agent": null,
+                    "is_active": true
+                },
+                {
+                    "id": 16,
+                    "name": "TABII TV",
+                    "stream_url": "https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8",
+                    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE8-YMCO-cvV3qk_skx82iolzNKQEBgV_RVek4DHFJTg2TMa8pqcVH9x1o&s=10",
+                    "category_id": 1,
+                    "order_index": 0,
+                    "headers": [],
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+                    "is_active": true
+                },
+                {
+                    "id": 17,
+                    "name": "TEVE 2",
+                    "stream_url": "https://live.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8",
+                    "logo": "https://cdn.aptoide.com/imgs/c/d/2/cd20c15fe90a7ac566275fb6f9e0456d_fgraphic.png",
+                    "category_id": 1,
+                    "order_index": 0,
+                    "headers": [],
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+                    "is_active": true
+                },
+                {
+                    "id": 18,
+                    "name": "A2",
+                    "stream_url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8",
+                    "logo": "https://tv.vin/imagest/trns-png-w200xh200-a2-tv-1758997687.webp",
+                    "category_id": 1,
+                    "order_index": 0,
+                    "headers": [],
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+                    "is_active": true
+                },
+                {
+                    "id": 19,
+                    "name": "360 TV",
+                    "stream_url": "https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8",
+                    "logo": "https://tv.vin/imagest/trns-png-w200xh200-360-tv.webp",
+                    "category_id": 1,
+                    "order_index": 0,
+                    "headers": [],
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+                    "is_active": true
+                },
+                {
+                    "id": 35,
+                    "name": "CNBC-E",
+                    "stream_url": "https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8",
+                    "logo": "https://tv.vin/imagest/trns-png-w200xh200-cnbce.webp",
+                    "category_id": 1,
+                    "order_index": 0,
+                    "headers": [],
+                    "user_agent": null,
+                    "is_active": true
+                }
+            ],
+            "m3u_lists": []
+        },
+        {
+            "id": 2,
+            "name": "Spor",
+            "image": "https://i.hizliresim.com/30tyjw7.png",
+            "order_index": 2,
+            "is_active": true,
+            "channels_count": 7,
+            "channels": [
+                {
+                    "id": 36,
+                    "name": "TRT Spor",
+                    "stream_url": "https://tv-trtspor1.medya.trt.com.tr/master.m3u8",
+                    "logo": "https://tv.vin/imagest/trns-png-w200xh200-trt-spor.webp",
+                    "category_id": 2,
+                    "order_index": 0,
+                    "headers": [],
+                    "user_agent": null,
+                    "is_active": true
+                },
+                {
+                    "id": 37,
+                    "name": "TRT Spor Yıldız",
+                    "stream_url": "https://tv-trtspor2.medya.trt.com.tr/master.m3u8",
+                    "logo": "https://tv.vin/imagest/trns-png-w200xh200-trt-spor-yildiz.webp",
+                    "category_id": 2,
+                    "order_index": 0,
+                    "headers": [],
+                    "user_agent": null,
+                    "is_active": true
+                },
+                {
+                    "id": 38,
+                    "name": "A Spor",
+                    "stream_url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8 ",
+                    "logo": "https://tv.vin/imagest/trns-png-w200xh200-a-spor.webp",
+                    "category_id": 2,
+                    "order_index": 0,
+                    "headers": [],
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+                    "is_active": true
+                },
+                {
+                    "id": 39,
+                    "name": "FB TV",
+                    "stream_url": "https://fbtv.fenerbahce.org/fenerbahcetv.stream_720p/playlist.m3u8",
+                    "logo": "https://tv.vin/imagest/trns-png-w200xh200-fb-tv.webp",
+                    "category_id": 2,
+                    "order_index": 0,
+                    "headers": [],
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+                    "is_active": true
+                },
+                {
+                    "id": 40,
+                    "name": "TJK TV",
+                    "stream_url": "https://tjktv-live.tjk.org/tjktv_1080p.m3u8",
+                    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHZM5qaAWAhRuT9qfATFBLWbe84f9RctIudowxJjoZLmvmt_5GCCvdQyI&s=10nt=thumbnail_unscaled",
+                    "category_id": 2,
+                    "order_index": 0,
+                    "headers": [],
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+                    "is_active": true
+                },
+                {
+                    "id": 41,
+                    "name": "HT SPOR",
+                    "stream_url": "https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web",
+                    "logo": "https://tv.vin/imagest/trns-png-w200xh200-ht-spor-1759224565.webp",
+                    "category_id": 2,
+                    "order_index": 0,
+                    "headers": [],
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0",
+                    "is_active": true
+                },
+                {
+                    "id": 42,
+                    "name": "EKOL SPOR",
+                    "stream_url": "https://ekoltv-live.ercdn.net/ekolsport/ekolsport.m3u8",
+                    "logo": "https://tv.vin/imagest/trns-png-w200xh200-ekol-sports.webp",
+                    "category_id": 2,
+                    "order_index": 0,
+                    "headers": [],
+                    "user_agent": "Mozilla/5.0 (Linux; Android 12; SM-G9980 Build/V417IR) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.61 Safari/537.36",
+                    "is_active": true
+                }
+            ],
+            "m3u_lists": [
+                {
+                    "id": 16,
+                    "name": "PatronSports",
+                    "url": "https://paste.rs/Qu93v",
+                    "logo": null,
+                    "order_index": 0,
+                    "is_active": true
+                },
+                {
+                    "id": 17,
+                    "name": "Mahsun Sports",
+                    "url": "https://raw.githubusercontent.com/swx-psd/sec-tv/refs/heads/main/test.m3u",
+                    "logo": null,
+                    "order_index": 0,
+                    "is_active": true
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Belgesel",
+            "image": "https://i.hizliresim.com/30tyjw7.png",
+            "order_index": 3,
+            "is_active": true,
+            "channels_count": 9,
+            "channels": [
+                {
+                    "id": 20,
+                    "name": "TRT BELGESEL",
+                    "stream_url": "https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8",
+                    "logo": "https://tv.vin/imagest/trns-png-w200xh200-trt-belgesel.webp",
+                    "category_id": 4,
+                    "order_index": 0,
+                    "headers": [],
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+                    "is_active": true
+                },
+                {
+                    "id": 21,
+                    "name": "TLC",
+                    "stream_url": "https://dogus.daioncdn.net/tlc/tlc.m3u8?app=tlc_web",
+                    "logo": "https://tv.vin/imagest/trns-png-w200xh200-tlc-tv.webp",
+                    "category_id": 4,
+                    "order_index": 0,
+                    "headers": [],
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+                    "is_active": true
+                },
+                {
+                    "id": 22,
+                    "name": "DMAX",
+                    "stream_url": "https://dogus.daioncdn.net/dmax/dmax.m3u8?app=dmax_web",
+                    "logo": "https://tv.vin/imagest/trns-png-w200xh200-dmax.webp",
+                    "category_id": 4,
+                    "order_index": 0,
+                    "headers": [],
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+                    "is_active": true
+                },
+                {
+                    "id": 23,
+                    "name": "NATIONAL GEOGRAPHIC",
+                    "stream_url": "https://saran-live.ercdn.net/natgeohd/index.m3u8",
+                    "logo": "https://www.greyboxcreative.com/wp-content/uploads/2020/01/National-Geographic-logo-1536x768.jpg.webp",
+                    "category_id": 4,
+                    "order_index": 0,
+                    "headers": [],
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+                    "is_active": true
+                },
+                {
+                    "id": 24,
+                    "name": "NAT GEO WILD",
+                    "stream_url": "https://saran-live.ercdn.net/natgeowild/index.m3u8",
+                    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv0ZdrDnJSpqy5V0EQqsUd6J6UsFGPwRvzng_VffBY3DVUMfjkdkNDLseh&s=10",
+                    "category_id": 4,
+                    "order_index": 0,
+                    "headers": [],
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+                    "is_active": true
+                },
+                {
+                    "id": 25,
+                    "name": "HISTORY CHANNEL",
+                    "stream_url": "https://raw.githubusercontent.com/droidlive/dc/refs/heads/main/history.m3u8",
+                    "logo": "https://nhd.org/wp-content/uploads/2022/11/Copy-of-Copy-of-39673730_History_Logo_2015_RGB_Black_type-1-1408x1536.png",
+                    "category_id": 4,
+                    "order_index": 0,
+                    "headers": [],
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+                    "is_active": true
+                },
+                {
+                    "id": 26,
+                    "name": "VIASAT HISTORY",
+                    "stream_url": "https://google-api.global.ssl.fastly.net/channels/appservices_gpiktv.m3u8?v=viasat%20history",
+                    "logo": "https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/viasat_history_wide.png?itok=1-fcGLEE",
+                    "category_id": 4,
+                    "order_index": 0,
+                    "headers": {
+                        "nubr": "1"
+                    },
+                    "user_agent": "googleusercontent",
+                    "is_active": true
+                },
+                {
+                    "id": 27,
+                    "name": "TARIH TV",
+                    "stream_url": "https://google-api.global.ssl.fastly.net/channels/appservices_gpiktv.m3u8?v=tarih%20tv",
+                    "logo": "https://cdn.iha.com.tr/Contents/images/2022/34/4997661.jpg",
+                    "category_id": 4,
+                    "order_index": 0,
+                    "headers": [],
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+                    "is_active": true
+                },
+                {
+                    "id": 32,
+                    "name": "BBC Earth",
+                    "stream_url": "https://mss.ayakkabiparti.lol/bbc/index.m3u8",
+                    "logo": "https://i.hizliresim.com/30tyjw7.png",
+                    "category_id": 4,
+                    "order_index": 0,
+                    "headers": [],
+                    "user_agent": "okhttp/4.12.0",
+                    "is_active": true
+                }
+            ],
+            "m3u_lists": []
+        },
+        {
+            "id": 3,
+            "name": "Haber Kanalları",
+            "image": "https://i.hizliresim.com/30tyjw7.png",
+            "order_index": 5,
+            "is_active": true,
+            "channels_count": 18,
+            "channels": [
+                {
+                    "id": 49,
+                    "name": "TRT Haber",
+                    "stream_url": "https://tv-trthaber.medya.trt.com.tr/master.m3u8",
+                    "logo": "https://tv.vin/imagest/trns-png-w200xh200-trt-haber-1758829199.webp",
+                    "category_id": 3,
+                    "order_index": 0,
+                    "headers": [],
+                    "user_agent": null,
+                    "is_active": true
+                },
+                {
+                    "id": 50,
+                    "name": "TGRT Haber",
+                    "stream_url": "https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8",
+                    "logo": "https://tv.vin/imagest/trns-png-w200xh200-tgrt-haber.webp",
+                    "category_id": 3,
+                    "order_index": 0,
+                    "headers": [],
+                    "user_agent": null,
+                    "is_active": true
+                },
+                {
+                    "id": 51,
+                    "name": "NTV",
+                    "stream_url": "https://dogus.daioncdn.net/ntv/ntv.m3u8?app=ntv_web",
+                    "logo": "https://tv.vin/imagest/trns-png-w200xh200-ntv.webp",
+                    "category_id": 3,
+                    "order_index": 0,
+                    "headers": [],
+                    "user_agent": null,
+                    "is_active": true
+                },
+                {
+                    "id": 52,
+                    "name": "CNN TURK",
+                    "stream_url": "https://helga.iptv2022.com/cnn_turk/index.m3u8",
+                    "logo": "https://tv.vin/imagest/trns-png-w200xh200-cnn-turk-1767986547.webp",
+                    "category_id": 3,
+                    "order_index": 0,
+                    "headers": {
+                        "Origin": "https://turkcanli.tv",
+                        "Referer": "https://turkcanli.tv"
+                    },
+                    "user_agent": null,
+                    "is_active": true
+                },
+                {
+                    "id": 53,
+                    "name": "TVNET",
+                    "stream_url": "https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8",
+                    "logo": "https://tv.vin/imagest/trns-png-w200xh200-tvnet.webp",
+                    "category_id": 3,
+                    "order_index": 0,
+                    "headers": [],
+                    "user_agent": null,
+                    "is_active": true
+                },
+                {
+                    "id": 54,
+                    "name": "ULKE TV",
+                    "stream_url": "https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8",
+                    "logo": "https://tv.vin/imagest/trns-png-w200xh200-ulke-tv.webp",
+                    "category_id": 3,
+                    "order_index": 0,
+                    "headers": [],
+                    "user_agent": null,
+                    "is_active": true
+                },
+                {
+                    "id": 55,
+                    "name": "KRT Haber",
+                    "stream_url": "https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Krt_Tv.m3u8",
+                    "logo": "https://tv.vin/imagest/trns-png-w200xh200-krt-tv.webp",
+                    "category_id": 3,
+                    "order_index": 0,
+                    "headers": [],
+                    "user_agent": null,
+                    "is_active": true
+                },
+                {
+                    "id": 56,
+                    "name": "Halk TV",
+                    "stream_url": "https://halktv-live.daioncdn.net/halktv/halktv.m3u8",
+                    "logo": "https://tv.vin/imagest/trns-png-w200xh200-halk-tv.webp",
+                    "category_id": 3,
+                    "order_index": 0,
+                    "headers": [],
+                    "user_agent": null,
+                    "is_active": true
+                },
+                {
+                    "id": 57,
+                    "name": "TELE 1",
+                    "stream_url": "https://tele1-live.ercdn.net/tele1/tele1.m3u8",
+                    "logo": "https://tv.vin/imagest/trns-png-w200xh200-tele1.webp",
+                    "category_id": 3,
+                    "order_index": 0,
+                    "headers": [],
+                    "user_agent": null,
+                    "is_active": true
+                },
+                {
+                    "id": 58,
+                    "name": "Haber Global",
+                    "stream_url": "https://tv.ensonhaber.com/haberglobal/haberglobal_720p.m3u8",
+                    "logo": "https://tv.vin/imagest/trns-png-w200xh200-haber-global-1758997826.webp",
+                    "category_id": 3,
+                    "order_index": 0,
+                    "headers": [],
+                    "user_agent": null,
+                    "is_active": true
+                },
+                {
+                    "id": 59,
+                    "name": "HABER TURK",
+                    "stream_url": "https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv.m3u8",
+                    "logo": "https://tv.vin/imagest/trns-png-w200xh200-haberturk.webp",
+                    "category_id": 3,
+                    "order_index": 0,
+                    "headers": [],
+                    "user_agent": null,
+                    "is_active": true
+                },
+                {
+                    "id": 60,
+                    "name": "TV24",
+                    "stream_url": "https://turkmedya-live.ercdn.net/tv24/tv24_1080p.m3u8",
+                    "logo": "https://tv.vin/imagest/trns-png-w200xh200-24-tv.webp",
+                    "category_id": 3,
+                    "order_index": 0,
+                    "headers": [],
+                    "user_agent": null,
+                    "is_active": true
+                },
+                {
+                    "id": 61,
+                    "name": "BLOOMBERGHT",
+                    "stream_url": "https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8",
+                    "logo": "https://tv.vin/imagest/trns-png-w200xh200-bloomberg-ht-1758997887.webp",
+                    "category_id": 3,
+                    "order_index": 0,
+                    "headers": [],
+                    "user_agent": null,
+                    "is_active": true
+                },
+                {
+                    "id": 62,
+                    "name": "TV 100",
+                    "stream_url": "https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8",
+                    "logo": "https://tv.vin/imagest/trns-png-w200xh200-tv100.webp",
+                    "category_id": 3,
+                    "order_index": 0,
+                    "headers": [],
+                    "user_agent": null,
+                    "is_active": true
+                },
+                {
+                    "id": 63,
+                    "name": "SÖZCÜ TV",
+                    "stream_url": "https://mss.ayakkabiparti.lol/sozcutv/index.m3u8",
+                    "logo": "https://tv.vin/imagest/trns-png-w200xh200-sozcu-tv-1758827631.webp",
+                    "category_id": 3,
+                    "order_index": 0,
+                    "headers": [],
+                    "user_agent": null,
+                    "is_active": true
+                },
+                {
+                    "id": 64,
+                    "name": "FLASH HABER",
+                    "stream_url": "https://flashhaber-live.ercdn.net/flashhaber/flashhaber_1080p.m3u8",
+                    "logo": "https://tv.vin/imagest/trns-png-w200xh200-flash-haber.webp",
+                    "category_id": 3,
+                    "order_index": 0,
+                    "headers": [],
+                    "user_agent": null,
+                    "is_active": true
+                },
+                {
+                    "id": 65,
+                    "name": "EKOL TV",
+                    "stream_url": "https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8",
+                    "logo": "https://i.hizliresim.com/30tyjw7.png",
+                    "category_id": 3,
+                    "order_index": 0,
+                    "headers": [],
+                    "user_agent": null,
+                    "is_active": true
+                },
+                {
+                    "id": 66,
+                    "name": "GZT",
+                    "stream_url": "https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8?accesscode=fbly",
+                    "logo": "https://tv.vin/imagest/trns-png-w200xh200-gzt-tv.webp",
+                    "category_id": 3,
+                    "order_index": 0,
+                    "headers": [],
+                    "user_agent": null,
+                    "is_active": true
+                }
+            ],
+            "m3u_lists": []
+        },
+        {
+            "id": 5,
+            "name": "Çocuk Kanalları",
+            "image": "https://i.hizliresim.com/30tyjw7.png",
+            "order_index": 6,
+            "is_active": true,
+            "channels_count": 7,
+            "channels": [
+                {
+                    "id": 1,
+                    "name": "Cartoon Network",
+                    "stream_url": "https://lord.ayakkabiparti.lol/cartoonnetwork/index.m3u8",
+                    "logo": "https://tv.vin/imagest/trns-png-w200xh200-cartoon-network.webp",
+                    "category_id": 5,
+                    "order_index": 0,
+                    "headers": [],
+                    "user_agent": "Mozilla/5.0 (Linux; Android 11; SM-A725F Build/RP1A.200720.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.122 Mobile Safari/537.36",
+                    "is_active": true
+                },
+                {
+                    "id": 43,
+                    "name": "TRT Çocuk",
+                    "stream_url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8",
+                    "logo": "https://tv.vin/imagest/trns-png-w200xh200-trt-cocuk.webp",
+                    "category_id": 5,
+                    "order_index": 0,
+                    "headers": [],
+                    "user_agent": "Mozilla/5.0 (Linux; Android 12; SM-G9980 Build/V417IR) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.61 Safari/537.36",
+                    "is_active": true
+                },
+                {
+                    "id": 44,
+                    "name": "TRT Çocuk Diyanet",
+                    "stream_url": "https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8",
+                    "logo": "https://i.hizliresim.com/30tyjw7.png",
+                    "category_id": 5,
+                    "order_index": 0,
+                    "headers": [],
+                    "user_agent": null,
+                    "is_active": true
+                },
+                {
+                    "id": 45,
+                    "name": "Minika GO",
+                    "stream_url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8",
+                    "logo": "https://tv.vin/imagest/trns-png-w200xh200-minika-go.webp",
+                    "category_id": 5,
+                    "order_index": 0,
+                    "headers": [],
+                    "user_agent": "Mozilla/5.0 (Linux; Android 12; SM-G9980 Build/V417IR) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.61 Safari/537.36",
+                    "is_active": true
+                },
+                {
+                    "id": 46,
+                    "name": "Minika Çocuk",
+                    "stream_url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_720p.m3u8",
+                    "logo": "https://tv.vin/imagest/trns-png-w200xh200-minika-cocuk.webp",
+                    "category_id": 5,
+                    "order_index": 0,
+                    "headers": [],
+                    "user_agent": null,
+                    "is_active": true
+                },
+                {
+                    "id": 47,
+                    "name": "Disney Jr",
+                    "stream_url": "https://saran-live.ercdn.net/disneyjunior/index.m3u8",
+                    "logo": "https://i.hizliresim.com/30tyjw7.png",
+                    "category_id": 5,
+                    "order_index": 0,
+                    "headers": [],
+                    "user_agent": null,
+                    "is_active": true
+                },
+                {
+                    "id": 48,
+                    "name": "Baby TV",
+                    "stream_url": "https://saran-live.ercdn.net/babytv/index.m3u8",
+                    "logo": "https://i.hizliresim.com/30tyjw7.png",
+                    "category_id": 5,
+                    "order_index": 0,
+                    "headers": [],
+                    "user_agent": null,
+                    "is_active": true
+                }
+            ],
+            "m3u_lists": []
+        }
+    ]
+}
