@@ -323,7 +323,7 @@
             "image": "https://i.hizliresim.com/30tyjw7.png",
             "order_index": 3,
             "is_active": true,
-            "channels_count": 9,
+            "channels_count": 3,
             "channels": [
                 {
                     "id": 20,
@@ -356,74 +356,6 @@
                     "order_index": 0,
                     "headers": [],
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-                    "is_active": true
-                },
-                {
-                    "id": 23,
-                    "name": "NATIONAL GEOGRAPHIC",
-                    "stream_url": "https://saran-live.ercdn.net/natgeohd/index.m3u8",
-                    "logo": "https://www.greyboxcreative.com/wp-content/uploads/2020/01/National-Geographic-logo-1536x768.jpg.webp",
-                    "category_id": 4,
-                    "order_index": 0,
-                    "headers": [],
-                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-                    "is_active": true
-                },
-                {
-                    "id": 24,
-                    "name": "NAT GEO WILD",
-                    "stream_url": "https://saran-live.ercdn.net/natgeowild/index.m3u8",
-                    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv0ZdrDnJSpqy5V0EQqsUd6J6UsFGPwRvzng_VffBY3DVUMfjkdkNDLseh&s=10",
-                    "category_id": 4,
-                    "order_index": 0,
-                    "headers": [],
-                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-                    "is_active": true
-                },
-                {
-                    "id": 25,
-                    "name": "HISTORY CHANNEL",
-                    "stream_url": "https://raw.githubusercontent.com/droidlive/dc/refs/heads/main/history.m3u8",
-                    "logo": "https://nhd.org/wp-content/uploads/2022/11/Copy-of-Copy-of-39673730_History_Logo_2015_RGB_Black_type-1-1408x1536.png",
-                    "category_id": 4,
-                    "order_index": 0,
-                    "headers": [],
-                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-                    "is_active": true
-                },
-                {
-                    "id": 26,
-                    "name": "VIASAT HISTORY",
-                    "stream_url": "https://google-api.global.ssl.fastly.net/channels/appservices_gpiktv.m3u8?v=viasat%20history",
-                    "logo": "https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/viasat_history_wide.png?itok=1-fcGLEE",
-                    "category_id": 4,
-                    "order_index": 0,
-                    "headers": {
-                        "nubr": "1"
-                    },
-                    "user_agent": "googleusercontent",
-                    "is_active": true
-                },
-                {
-                    "id": 27,
-                    "name": "TARIH TV",
-                    "stream_url": "https://google-api.global.ssl.fastly.net/channels/appservices_gpiktv.m3u8?v=tarih%20tv",
-                    "logo": "https://cdn.iha.com.tr/Contents/images/2022/34/4997661.jpg",
-                    "category_id": 4,
-                    "order_index": 0,
-                    "headers": [],
-                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-                    "is_active": true
-                },
-                {
-                    "id": 32,
-                    "name": "BBC Earth",
-                    "stream_url": "https://mss.ayakkabiparti.lol/bbc/index.m3u8",
-                    "logo": "https://i.hizliresim.com/30tyjw7.png",
-                    "category_id": 4,
-                    "order_index": 0,
-                    "headers": [],
-                    "user_agent": "okhttp/4.12.0",
                     "is_active": true
                 }
             ],
