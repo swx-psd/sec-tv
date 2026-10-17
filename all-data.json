@@ -7,7 +7,7 @@
             "image": "https://i.hizliresim.com/30tyjw7.png",
             "order_index": 1,
             "is_active": true,
-            "channels_count": 18,
+            "channels_count": 17,
             "channels": [
                 {
                     "id": 2,
@@ -93,17 +93,6 @@
                     "name": "TV 8",
                     "stream_url": "https://tv8.daioncdn.net/tv8/tv8.m3u8?app=tv8_web",
                     "logo": "https://tv.vin/imagest/trns-png-w200xh200-tv8.webp",
-                    "category_id": 1,
-                    "order_index": 0,
-                    "headers": [],
-                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-                    "is_active": true
-                },
-                {
-                    "id": 10,
-                    "name": "TV 8 INT",
-                    "stream_url": "https://trn03.tulix.tv/gt-tv8int/tracks-v1a1/mono.m3u8",
-                    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW7NPFJunmBvVSJypbUx15JLuSnJm7ojVNSO7QYHleCg&s",
                     "category_id": 1,
                     "order_index": 0,
                     "headers": [],
