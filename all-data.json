@@ -579,7 +579,7 @@
             "image": "https://i.hizliresim.com/30tyjw7.png",
             "order_index": 6,
             "is_active": true,
-            "channels_count": 7,
+            "channels_count": 4,
             "channels": [
                 {
                     "id": 1,
@@ -604,17 +604,6 @@
                     "is_active": true
                 },
                 {
-                    "id": 44,
-                    "name": "TRT Çocuk Diyanet",
-                    "stream_url": "https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8",
-                    "logo": "https://i.hizliresim.com/30tyjw7.png",
-                    "category_id": 5,
-                    "order_index": 0,
-                    "headers": [],
-                    "user_agent": null,
-                    "is_active": true
-                },
-                {
                     "id": 45,
                     "name": "Minika GO",
                     "stream_url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8",
@@ -630,28 +619,6 @@
                     "name": "Minika Çocuk",
                     "stream_url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_720p.m3u8",
                     "logo": "https://tv.vin/imagest/trns-png-w200xh200-minika-cocuk.webp",
-                    "category_id": 5,
-                    "order_index": 0,
-                    "headers": [],
-                    "user_agent": null,
-                    "is_active": true
-                },
-                {
-                    "id": 47,
-                    "name": "Disney Jr",
-                    "stream_url": "https://saran-live.ercdn.net/disneyjunior/index.m3u8",
-                    "logo": "https://i.hizliresim.com/30tyjw7.png",
-                    "category_id": 5,
-                    "order_index": 0,
-                    "headers": [],
-                    "user_agent": null,
-                    "is_active": true
-                },
-                {
-                    "id": 48,
-                    "name": "Baby TV",
-                    "stream_url": "https://saran-live.ercdn.net/babytv/index.m3u8",
-                    "logo": "https://i.hizliresim.com/30tyjw7.png",
                     "category_id": 5,
                     "order_index": 0,
                     "headers": [],
