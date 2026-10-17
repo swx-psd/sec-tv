@@ -15,7 +15,7 @@
                     "stream_url": "https://tv-trt1.medya.trt.com.tr/master.m3u8",
                     "logo": "https://tv.vin/imagest/trns-png-w200xh200-trt-1.webp",
                     "category_id": 1,
-                    "order_index": 0,
+                    "order_index": 1,
                     "headers": [],
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
                     "is_active": true
@@ -26,7 +26,7 @@
                     "stream_url": "http://tv-trt2.medya.trt.com.tr/master.m3u8",
                     "logo": "https://tv.vin/imagest/trns-png-w200xh200-trt-2.webp",
                     "category_id": 1,
-                    "order_index": 0,
+                    "order_index": 2,
                     "headers": [],
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
                     "is_active": true
@@ -37,7 +37,7 @@
                     "stream_url": "https://ciner.daioncdn.net/showtv/showtv.m3u8?app=showtv_web",
                     "logo": "https://tv.vin/imagest/trns-png-w200xh200-show-tv.webp",
                     "category_id": 1,
-                    "order_index": 0,
+                    "order_index": 3,
                     "headers": [],
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
                     "is_active": true
@@ -48,7 +48,7 @@
                     "stream_url": "https://dogus.daioncdn.net/startv/startv.m3u8?app=startv_web",
                     "logo": "https://tv.vin/imagest/trns-png-w200xh200-star-tv.webp",
                     "category_id": 1,
-                    "order_index": 0,
+                    "order_index": 4,
                     "headers": [],
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
                     "is_active": true
@@ -59,7 +59,7 @@
                     "stream_url": "http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8",
                     "logo": "https://tv.vin/imagest/trns-png-w200xh200-atv.webp",
                     "category_id": 1,
-                    "order_index": 0,
+                    "order_index": 5,
                     "headers": [],
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
                     "is_active": true
@@ -70,7 +70,7 @@
                     "stream_url": "https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web",
                     "logo": "https://tv.vin/imagest/trns-png-w200xh200-kanal-d.webp",
                     "category_id": 1,
-                    "order_index": 0,
+                    "order_index": 6,
                     "headers": [],
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
                     "is_active": true
@@ -81,7 +81,7 @@
                     "stream_url": "https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8",
                     "logo": "https://tv.vin/imagest/trns-png-w200xh200-now-tv.webp",
                     "category_id": 1,
-                    "order_index": 0,
+                    "order_index": 7,
                     "headers": {
                         "Referer": "https://www.nowtv.com.tr/"
                     },
@@ -94,7 +94,18 @@
                     "stream_url": "https://tv8.daioncdn.net/tv8/tv8.m3u8?app=tv8_web",
                     "logo": "https://tv.vin/imagest/trns-png-w200xh200-tv8.webp",
                     "category_id": 1,
-                    "order_index": 0,
+                    "order_index": 8,
+                    "headers": [],
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+                    "is_active": true
+                },
+                {
+                    "id": 71,
+                    "name": "TV 8,5",
+                    "stream_url": "https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web",
+                    "logo": "https://acunmedya.com/media/vr5jy1bo/content-tv8-5-logo.png",
+                    "category_id": 1,
+                    "order_index": 9,
                     "headers": [],
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
                     "is_active": true
@@ -105,7 +116,7 @@
                     "stream_url": "https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8",
                     "logo": "https://tv.vin/imagest/trns-png-w200xh200-beyaz-tv.webp",
                     "category_id": 1,
-                    "order_index": 0,
+                    "order_index": 10,
                     "headers": [],
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
                     "is_active": true
@@ -116,7 +127,7 @@
                     "stream_url": "https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8",
                     "logo": "https://tv.vin/imagest/trns-png-w200xh200-tv4-1759086110.webp",
                     "category_id": 1,
-                    "order_index": 0,
+                    "order_index": 11,
                     "headers": [],
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
                     "is_active": true
@@ -127,7 +138,7 @@
                     "stream_url": "https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8",
                     "logo": "https://tv.vin/imagest/trns-png-w200xh200-gzt-tv.webp",
                     "category_id": 1,
-                    "order_index": 0,
+                    "order_index": 12,
                     "headers": [],
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
                     "is_active": true
@@ -138,7 +149,7 @@
                     "stream_url": "https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8",
                     "logo": "https://www.tvyayinakisi.com/wp-content/uploads/2025/10/tivi6-kimin-tivi6nin-sahibi-kim-tivi6-nerenin-kanali.webp",
                     "category_id": 1,
-                    "order_index": 0,
+                    "order_index": 13,
                     "headers": [],
                     "user_agent": null,
                     "is_active": true
@@ -149,7 +160,7 @@
                     "stream_url": "https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8",
                     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE8-YMCO-cvV3qk_skx82iolzNKQEBgV_RVek4DHFJTg2TMa8pqcVH9x1o&s=10",
                     "category_id": 1,
-                    "order_index": 0,
+                    "order_index": 14,
                     "headers": [],
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
                     "is_active": true
@@ -160,7 +171,7 @@
                     "stream_url": "https://live.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8",
                     "logo": "https://cdn.aptoide.com/imgs/c/d/2/cd20c15fe90a7ac566275fb6f9e0456d_fgraphic.png",
                     "category_id": 1,
-                    "order_index": 0,
+                    "order_index": 15,
                     "headers": [],
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
                     "is_active": true
@@ -171,7 +182,7 @@
                     "stream_url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8",
                     "logo": "https://tv.vin/imagest/trns-png-w200xh200-a2-tv-1758997687.webp",
                     "category_id": 1,
-                    "order_index": 0,
+                    "order_index": 16,
                     "headers": [],
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
                     "is_active": true
@@ -182,7 +193,7 @@
                     "stream_url": "https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8",
                     "logo": "https://tv.vin/imagest/trns-png-w200xh200-360-tv.webp",
                     "category_id": 1,
-                    "order_index": 0,
+                    "order_index": 17,
                     "headers": [],
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
                     "is_active": true
@@ -193,20 +204,9 @@
                     "stream_url": "https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8",
                     "logo": "https://tv.vin/imagest/trns-png-w200xh200-cnbce.webp",
                     "category_id": 1,
-                    "order_index": 0,
+                    "order_index": 18,
                     "headers": [],
                     "user_agent": null,
-                    "is_active": true
-                },
-                {
-                    "id": 71,
-                    "name": "TV 8,5",
-                    "stream_url": "https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web",
-                    "logo": "https://static.wikia.nocookie.net/logopedia/images/1/1f/TV8.5_Logosu.png/revision/latest?cb=20170827103605",
-                    "category_id": 1,
-                    "order_index": 0,
-                    "headers": [],
-                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
                     "is_active": true
                 }
             ],
