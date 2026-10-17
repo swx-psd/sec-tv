@@ -7,7 +7,7 @@
             "image": "https://i.hizliresim.com/30tyjw7.png",
             "order_index": 1,
             "is_active": true,
-            "channels_count": 17,
+            "channels_count": 18,
             "channels": [
                 {
                     "id": 2,
@@ -196,6 +196,17 @@
                     "order_index": 0,
                     "headers": [],
                     "user_agent": null,
+                    "is_active": true
+                },
+                {
+                    "id": 71,
+                    "name": "TV 8,5",
+                    "stream_url": "https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web",
+                    "logo": "https://static.wikia.nocookie.net/logopedia/images/1/1f/TV8.5_Logosu.png/revision/latest?cb=20170827103605",
+                    "category_id": 1,
+                    "order_index": 0,
+                    "headers": [],
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
                     "is_active": true
                 }
             ],
