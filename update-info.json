@@ -1,0 +1,14 @@
+{
+    "schemaVersion": 1,
+    "status": true,
+    "channel": "stable",
+    "latest_version_code": 7,
+    "latest_version_name": "1.6",
+    "min_supported_code": 1,
+    "is_mandatory": true,
+    "notes": null,
+    "size": 4098402,
+    "sha256": "dff831678439bd73a5468af5660a8a60f69ac02db3691c3668045380066e16fb",
+    "published_at": "2026-10-20 01:52:00",
+    "download_path": "/swx-psd/sec-tv/releases/download/v7/SecTVPlus-1.6-7.apk"
+}
